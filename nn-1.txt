@@ -1,3 +1,4 @@
 contenido secreto
 archivo numero 1
-hola
+adios
+nuevo contenido
